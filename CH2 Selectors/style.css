@@ -1,0 +1,30 @@
+*{
+    font-family: monospace;
+}
+
+body{
+    font-size: 22px;
+    border: 3px solid black;
+}
+button, input, textarea, select{
+    font: inherit;
+}
+h1, h2{
+    color: violet;
+}
+p{
+    color: purple;
+}
+.highlight{
+    text-transform: capitalize;
+    background-color: gold;
+}
+.gray{
+    color: grey;
+}/*
+p{
+    color: purple!important; it will turn it to purple despite of class or ids
+}*/
+#second{
+    font-style: italic;
+}
