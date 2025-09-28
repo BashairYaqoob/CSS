@@ -5,3 +5,5 @@ firstly in html, we have added a small text in between the paragraph texts.
 to style it open p with curly braces in css and:
 
 color, fontsize
+
+we can do the same in html sheet using style and p. the precendence would of the last line read by compiler
