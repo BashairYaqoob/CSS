@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    font-size: 16px; /*default size of text*/
+    width: 50ch; /*characters in single line*/
+}
+header{
+    width: 75%;
+}
+main{
+    width: 50vw;/* you can see width is 50% of 100% while h1 is 50% of 75%*/
+    background-color: blanchedalmond;
+}
+h1{
+    border: 2px dashed mediumaquamarine;
+    width: 50%;/*50% of 75%*/
+    font-size: 3 rem;
+    padding: 0.5em; 
+}
